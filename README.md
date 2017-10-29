@@ -1,2 +1,2 @@
 # chef_fluency
-work on chef fluency bag for linux academy
+work on chef fluency badge for linux academy

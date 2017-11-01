@@ -52,7 +52,6 @@ Desktop.ini
 $RECYCLE.BIN/
 =======
 .vagrant
-/cookbooks
 
 # Bundler
 bin/*

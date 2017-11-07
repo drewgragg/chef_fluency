@@ -7,7 +7,7 @@
 
 # install pkg
 package 'postgresql-server' do
-	notifies :run,'execute[postgresql-init]'
+	notifies :run,'execute[postgresql-init]', :immediately
 end
 
 # init after install
